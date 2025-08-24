@@ -49,7 +49,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contactame
 
 <p align="center">
 <a href="mailto:jovanbautista158@gmail.com"><img src="https://img.shields.io/badge/jovanbautista158@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -60,4 +60,4 @@
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-Last Edited on: 11/12/2020
+Last Edited on: 23/08/2025
