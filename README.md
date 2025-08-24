@@ -47,7 +47,7 @@
 <p align="center">
 <a href="mailto:jovanbautista158@gmail.com"><img src="https://img.shields.io/badge/jovanbautista158@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/jovan_baher/"><img src="https://img.shields.io/badge/-@jovan_baher_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/jovan.bautistahdz"><img src="https://img.shields.io/badge/-Jovan Bautista Hdz-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/jovan.bautistahdz"><img src="https://img.shields.io/badge/-Jovan%20Bautista%20Hdz-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
