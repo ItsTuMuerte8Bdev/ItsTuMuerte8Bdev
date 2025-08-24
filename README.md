@@ -29,7 +29,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=gnu-assembler&logoColor=8B0000)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
+<!-- Logo Laravel personalizado -->
+<img src="ruta/a/tu/logo-laravel.png" alt="Laravel" width="40"/>
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
